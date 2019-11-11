@@ -18,9 +18,11 @@
   
   Formula for cuboid volume: length * width * height
 */
-multiply(volume) {
+
+/*volume() {
   return this.length * this.width * this.height; 
 }
+*/
 
 /* == Step 3: Surface Area Method ==
   Create another method using CuboidMaker's prototype that returns the surface area of a given cuboid's length, width, and height. 
